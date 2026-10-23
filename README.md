@@ -27,38 +27,47 @@ Welcome to my GitHub profile! I'm passionate about data analytics and enjoy buil
 
 <div align="center">
 
+<!-- SQL - FIRST POSITION -->
+<a href="https://en.wikipedia.org/wiki/SQL">
+<img src="https://img.icons8.com/color/96/sql.png" alt="SQL" width="70" height="70"/>
+</a>
+
+<!-- PostgreSQL -->
 <a href="https://www.postgresql.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70"/>
 </a>
 
+<!-- Power BI -->
 <a href="https://powerbi.microsoft.com/">
 <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="70" height="70"/>
 </a>
 
+<!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel">
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="70" height="70"/>
 </a>
 
+<!-- Python -->
 <a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
 </a>
 
-<a href="https://numpy.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="70" height="70"/>
-</a>
-
+<!-- Pandas -->
 <a href="https://pandas.pydata.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="70" height="70"/>
 </a>
 
+<!-- Azure -->
 <a href="https://azure.microsoft.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="70" height="70"/>
 </a>
 
+<!-- Databricks -->
 <a href="https://www.databricks.com/">
 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="70" height="70"/>
 </a>
 
+<!-- AWS -->
 <a href="https://aws.amazon.com/">
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="70" height="70"/>
 </a>
